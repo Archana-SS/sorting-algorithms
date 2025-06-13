@@ -1,5 +1,5 @@
 //It repeatedly swaps the adjacent elements if they are in the wrong order
-
+```java
 class Solution {
     public static void bubbleSort(int arr[]) {
         int n=arr.length;
@@ -18,3 +18,4 @@ class Solution {
         }
     }
 }
+```
